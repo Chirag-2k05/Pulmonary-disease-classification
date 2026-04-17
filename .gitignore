@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.zip
+*.jpg
+*.png
+*.jpeg
+dataset/
+COVID-19_Radiography_Dataset/
